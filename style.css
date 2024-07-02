@@ -91,11 +91,11 @@
     text-align: center;
     }
     .dispositivos__titulo {
-    font-size: 48px;
+    font-size: 22px;
     color: var(--branco-principal);
     }
     .lista__item {
-    font-size: 32px;
+    font-size: 22px;
     color: var(--branco-principal);
     }
     .rodape__lista {
