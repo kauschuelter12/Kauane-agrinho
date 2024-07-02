@@ -11,7 +11,7 @@
     background-color: var(--cor-de-fundo);
     color: var(--branco-principal);
     font-family: var(--fonte-principal);
-    font-size: 16px;
+    font-size: 22px;
     font-weight: 400;
     }
     * {
@@ -67,7 +67,7 @@
     }
     .descricao__titulo {
     font-weight: 700;
-    font-size: 48px;
+    font-size: 22px;
     color: var(--branco-principal);
     margin-bottom: 0.1em;
     }
